@@ -11,9 +11,9 @@
     <title>Car Advisor</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="bootstrap.min.css" rel="stylesheet">
     <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="bootstrap.min.js"></script>
 
    <script>
 function loginvalidation()
